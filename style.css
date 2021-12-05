@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+<!------ this is for h1 tag ------->
+h1{
+    font-size: 50px;
+}
+
+<!------ this is for orange cls ------->
+.orange{
+    color: orange;
+}
